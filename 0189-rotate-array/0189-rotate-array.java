@@ -1,19 +1,27 @@
 class Solution {
-    public void rotate(int[] arr, int k) {
-        k = k%arr.length;
-        doReverse(0,arr.length-1,arr);
-        doReverse(0,k-1,arr);
-        doReverse(k,arr.length-1,arr);
-        
-    }
+    public void rotate(int[] nums, int k) {
+        int len=nums.length;
+        if(len==0){
+            return;
+        }
+        k=k%len;
+        if(len==1){
+            System.out.print(Arrays.toString(nums));
+        }
+        List<Integer>list=new ArrayList<>();
+        for(int i=len-k;i<len;i++){ 
+            list.add(nums[i]);
 
-    public void doReverse(int s, int e, int[] arr) {
-        while (s < e) {
-            int temp = arr[s];
-            arr[s] = arr[e];
-            arr[e] = temp;
-            s++;
-            e--;
+        }
+        for(int i=0;i<len-k;i++){
+            list.add(nums[i]);
+        }
+        for(int i=0;i<len;i++){
+            nums[i]=list.get(i);
+        }
+        
+        for(int number:nums){
+            System.out.print(number);
         }
     }
 }
