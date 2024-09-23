@@ -1,10 +1,9 @@
 class Solution {
     public void rotate(int[] arr, int k) {
-        int n=arr.length;
-        k = k%n;
-        doReverse(0,n-1,arr);
+        k = k%arr.length;
+        doReverse(0,arr.length-1,arr);
         doReverse(0,k-1,arr);
-        doReverse(k,n-1,arr);
+        doReverse(k,arr.length-1,arr);
         
     }
 
