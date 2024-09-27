@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kishan-Vyas/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Kishan-Vyas/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0392-is-subsequence](https://github.com/Kishan-Vyas/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Kishan-Vyas/LeetCode/tree/master/0443-string-compression) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Kishan-Vyas/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Kishan-Vyas/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Kishan-Vyas/LeetCode/tree/master/0011-container-with-most-water) |
 | [0189-rotate-array](https://github.com/Kishan-Vyas/LeetCode/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/Kishan-Vyas/LeetCode/tree/master/0392-is-subsequence) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Kishan-Vyas/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/Kishan-Vyas/LeetCode/tree/master/0062-unique-paths) |
 | [0392-is-subsequence](https://github.com/Kishan-Vyas/LeetCode/tree/master/0392-is-subsequence) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Kishan-Vyas/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
