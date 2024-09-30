@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0011-container-with-most-water](https://github.com/Kishan-Vyas/LeetCode/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/Kishan-Vyas/LeetCode/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/Kishan-Vyas/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0128-longest-consecutive-sequence](https://github.com/Kishan-Vyas/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/Kishan-Vyas/LeetCode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Kishan-Vyas/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0005-longest-palindromic-substring](https://github.com/Kishan-Vyas/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Kishan-Vyas/LeetCode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Kishan-Vyas/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/Kishan-Vyas/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Kishan-Vyas/LeetCode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Kishan-Vyas/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Kishan-Vyas/LeetCode/tree/master/0142-linked-list-cycle-ii) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Kishan-Vyas/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/Kishan-Vyas/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/Kishan-Vyas/LeetCode/tree/master/0062-unique-paths) |
 | [0392-is-subsequence](https://github.com/Kishan-Vyas/LeetCode/tree/master/0392-is-subsequence) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Kishan-Vyas/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -182,5 +185,10 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Kishan-Vyas/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/Kishan-Vyas/LeetCode/tree/master/0234-palindrome-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Kishan-Vyas/LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
