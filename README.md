@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0011-container-with-most-water](https://github.com/Kishan-Vyas/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kishan-Vyas/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Kishan-Vyas/LeetCode/tree/master/0036-valid-sudoku) |
+| [0039-combination-sum](https://github.com/Kishan-Vyas/LeetCode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Kishan-Vyas/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0128-longest-consecutive-sequence](https://github.com/Kishan-Vyas/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/Kishan-Vyas/LeetCode/tree/master/0189-rotate-array) |
@@ -194,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Kishan-Vyas/LeetCode/tree/master/0042-trapping-rain-water) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/Kishan-Vyas/LeetCode/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
