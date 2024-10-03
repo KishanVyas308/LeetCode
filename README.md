@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1319-unique-number-of-occurrences](https://github.com/Kishan-Vyas/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Kishan-Vyas/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Kishan-Vyas/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1694-make-sum-divisible-by-p](https://github.com/Kishan-Vyas/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Kishan-Vyas/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/Kishan-Vyas/LeetCode/tree/master/1833-find-the-highest-altitude) |
 ## Math
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0347-top-k-frequent-elements](https://github.com/Kishan-Vyas/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1319-unique-number-of-occurrences](https://github.com/Kishan-Vyas/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Kishan-Vyas/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1694-make-sum-divisible-by-p](https://github.com/Kishan-Vyas/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Kishan-Vyas/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Sorting
 |  |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0238-product-of-array-except-self](https://github.com/Kishan-Vyas/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Kishan-Vyas/LeetCode/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/Kishan-Vyas/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1694-make-sum-divisible-by-p](https://github.com/Kishan-Vyas/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [1833-find-the-highest-altitude](https://github.com/Kishan-Vyas/LeetCode/tree/master/1833-find-the-highest-altitude) |
 ## Divide and Conquer
 |  |
