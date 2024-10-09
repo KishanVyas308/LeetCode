@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0443-string-compression](https://github.com/Kishan-Vyas/LeetCode/tree/master/0443-string-compression) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Kishan-Vyas/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Kishan-Vyas/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1777-determine-if-two-strings-are-close](https://github.com/Kishan-Vyas/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 ## Sliding Window
 |  |
 | ------- |
@@ -97,11 +98,13 @@ A collection of LeetCode questions to ace the coding interview!
 | [1319-unique-number-of-occurrences](https://github.com/Kishan-Vyas/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Kishan-Vyas/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1694-make-sum-divisible-by-p](https://github.com/Kishan-Vyas/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
+| [1777-determine-if-two-strings-are-close](https://github.com/Kishan-Vyas/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Kishan-Vyas/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Sorting
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Kishan-Vyas/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [1777-determine-if-two-strings-are-close](https://github.com/Kishan-Vyas/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Kishan-Vyas/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Binary Search
 |  |
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Kishan-Vyas/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [1777-determine-if-two-strings-are-close](https://github.com/Kishan-Vyas/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 ## Quickselect
 |  |
 | ------- |
