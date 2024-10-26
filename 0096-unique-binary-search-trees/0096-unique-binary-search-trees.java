@@ -5,7 +5,7 @@ class Solution {
         for(int i=1; i<=n; i++) {
             for(int j=1; j<=i; j++) {
                 dp[i] += dp[j-1]*dp[i-j];
-                System.out.print(dp[j]);
+                System.out.print(dp[j] + " ");
             }
             System.out.println();
         }
