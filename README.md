@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0006-zigzag-conversion](https://github.com/Kishan-Vyas/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0392-is-subsequence](https://github.com/Kishan-Vyas/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Kishan-Vyas/LeetCode/tree/master/0443-string-compression) |
+| [0812-rotate-string](https://github.com/Kishan-Vyas/LeetCode/tree/master/0812-rotate-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Kishan-Vyas/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Kishan-Vyas/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Kishan-Vyas/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -281,4 +282,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Kishan-Vyas/LeetCode/tree/master/0096-unique-binary-search-trees) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/Kishan-Vyas/LeetCode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
