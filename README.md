@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1694-make-sum-divisible-by-p](https://github.com/Kishan-Vyas/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Kishan-Vyas/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/Kishan-Vyas/LeetCode/tree/master/1833-find-the-highest-altitude) |
+| [1940-maximum-xor-for-each-query](https://github.com/Kishan-Vyas/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Kishan-Vyas/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2428-equal-row-and-column-pairs](https://github.com/Kishan-Vyas/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Kishan-Vyas/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1046-max-consecutive-ones-iii](https://github.com/Kishan-Vyas/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1694-make-sum-divisible-by-p](https://github.com/Kishan-Vyas/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [1833-find-the-highest-altitude](https://github.com/Kishan-Vyas/LeetCode/tree/master/1833-find-the-highest-altitude) |
+| [1940-maximum-xor-for-each-query](https://github.com/Kishan-Vyas/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [1940-maximum-xor-for-each-query](https://github.com/Kishan-Vyas/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Kishan-Vyas/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Kishan-Vyas/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 <!---LeetCode Topics End-->
