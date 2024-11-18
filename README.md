@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0493-reverse-pairs](https://github.com/Kishan-Vyas/LeetCode/tree/master/0493-reverse-pairs) |
 | [0643-maximum-average-subarray-i](https://github.com/Kishan-Vyas/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Kishan-Vyas/LeetCode/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/Kishan-Vyas/LeetCode/tree/master/0735-asteroid-collision) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Kishan-Vyas/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/Kishan-Vyas/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/Kishan-Vyas/LeetCode/tree/master/1319-unique-number-of-occurrences) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0144-binary-tree-preorder-traversal](https://github.com/Kishan-Vyas/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Kishan-Vyas/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Kishan-Vyas/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0735-asteroid-collision](https://github.com/Kishan-Vyas/LeetCode/tree/master/0735-asteroid-collision) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Kishan-Vyas/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2470-removing-stars-from-a-string](https://github.com/Kishan-Vyas/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Monotonic Stack
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Kishan-Vyas/LeetCode/tree/master/0735-asteroid-collision) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Kishan-Vyas/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2428-equal-row-and-column-pairs](https://github.com/Kishan-Vyas/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/Kishan-Vyas/LeetCode/tree/master/2470-removing-stars-from-a-string) |
