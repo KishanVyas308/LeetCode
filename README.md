@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kishan-Vyas/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Kishan-Vyas/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Kishan-Vyas/LeetCode/tree/master/0006-zigzag-conversion) |
+| [0242-valid-anagram](https://github.com/Kishan-Vyas/LeetCode/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/Kishan-Vyas/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Kishan-Vyas/LeetCode/tree/master/0443-string-compression) |
 | [0812-rotate-string](https://github.com/Kishan-Vyas/LeetCode/tree/master/0812-rotate-string) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0141-linked-list-cycle](https://github.com/Kishan-Vyas/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Kishan-Vyas/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Kishan-Vyas/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0242-valid-anagram](https://github.com/Kishan-Vyas/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Kishan-Vyas/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1319-unique-number-of-occurrences](https://github.com/Kishan-Vyas/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Kishan-Vyas/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Kishan-Vyas/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Kishan-Vyas/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Kishan-Vyas/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Kishan-Vyas/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
