@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0094-binary-tree-inorder-traversal](https://github.com/Kishan-Vyas/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Kishan-Vyas/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Kishan-Vyas/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/Kishan-Vyas/LeetCode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Kishan-Vyas/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0735-asteroid-collision](https://github.com/Kishan-Vyas/LeetCode/tree/master/0735-asteroid-collision) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Kishan-Vyas/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -384,4 +385,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Kishan-Vyas/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Kishan-Vyas/LeetCode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
