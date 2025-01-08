@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2580-circular-sentence](https://github.com/Kishan-Vyas/LeetCode/tree/master/2580-circular-sentence) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Kishan-Vyas/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Kishan-Vyas/LeetCode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Kishan-Vyas/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3451-string-compression-iii](https://github.com/Kishan-Vyas/LeetCode/tree/master/3451-string-compression-iii) |
 ## Sliding Window
 |  |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2699-count-the-number-of-fair-pairs](https://github.com/Kishan-Vyas/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/Kishan-Vyas/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Kishan-Vyas/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Kishan-Vyas/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Kishan-Vyas/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Kishan-Vyas/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Math
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0812-rotate-string](https://github.com/Kishan-Vyas/LeetCode/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/Kishan-Vyas/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Kishan-Vyas/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Kishan-Vyas/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -402,4 +405,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Kishan-Vyas/LeetCode/tree/master/0155-min-stack) |
+## Trie
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Kishan-Vyas/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Rolling Hash
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Kishan-Vyas/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Hash Function
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Kishan-Vyas/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
