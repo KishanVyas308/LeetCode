@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0039-combination-sum](https://github.com/Kishan-Vyas/LeetCode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Kishan-Vyas/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0128-longest-consecutive-sequence](https://github.com/Kishan-Vyas/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Kishan-Vyas/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Kishan-Vyas/LeetCode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Kishan-Vyas/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Kishan-Vyas/LeetCode/tree/master/0239-sliding-window-maximum) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0002-add-two-numbers](https://github.com/Kishan-Vyas/LeetCode/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/Kishan-Vyas/LeetCode/tree/master/0062-unique-paths) |
 | [0096-unique-binary-search-trees](https://github.com/Kishan-Vyas/LeetCode/tree/master/0096-unique-binary-search-trees) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Kishan-Vyas/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Kishan-Vyas/LeetCode/tree/master/0189-rotate-array) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Kishan-Vyas/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2716-prime-subtraction-operation](https://github.com/Kishan-Vyas/LeetCode/tree/master/2716-prime-subtraction-operation) |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0094-binary-tree-inorder-traversal](https://github.com/Kishan-Vyas/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Kishan-Vyas/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Kishan-Vyas/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Kishan-Vyas/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Kishan-Vyas/LeetCode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Kishan-Vyas/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0735-asteroid-collision](https://github.com/Kishan-Vyas/LeetCode/tree/master/0735-asteroid-collision) |
