@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0952-word-subsets](https://github.com/Kishan-Vyas/LeetCode/tree/master/0952-word-subsets) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Kishan-Vyas/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Kishan-Vyas/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1502-construct-k-palindrome-strings](https://github.com/Kishan-Vyas/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/Kishan-Vyas/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Kishan-Vyas/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Kishan-Vyas/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0011-container-with-most-water](https://github.com/Kishan-Vyas/LeetCode/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/Kishan-Vyas/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
+| [1502-construct-k-palindrome-strings](https://github.com/Kishan-Vyas/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Kishan-Vyas/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2716-prime-subtraction-operation](https://github.com/Kishan-Vyas/LeetCode/tree/master/2716-prime-subtraction-operation) |
 ## Dynamic Programming
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0952-word-subsets](https://github.com/Kishan-Vyas/LeetCode/tree/master/0952-word-subsets) |
 | [1319-unique-number-of-occurrences](https://github.com/Kishan-Vyas/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Kishan-Vyas/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1502-construct-k-palindrome-strings](https://github.com/Kishan-Vyas/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1694-make-sum-divisible-by-p](https://github.com/Kishan-Vyas/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Kishan-Vyas/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Kishan-Vyas/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Kishan-Vyas/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [1502-construct-k-palindrome-strings](https://github.com/Kishan-Vyas/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Kishan-Vyas/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Kishan-Vyas/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 ## Quickselect
