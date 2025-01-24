@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0424-longest-repeating-character-replacement](https://github.com/Kishan-Vyas/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/Kishan-Vyas/LeetCode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Kishan-Vyas/LeetCode/tree/master/0567-permutation-in-string) |
+| [0649-dota2-senate](https://github.com/Kishan-Vyas/LeetCode/tree/master/0649-dota2-senate) |
 | [0812-rotate-string](https://github.com/Kishan-Vyas/LeetCode/tree/master/0812-rotate-string) |
 | [0952-word-subsets](https://github.com/Kishan-Vyas/LeetCode/tree/master/0952-word-subsets) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Kishan-Vyas/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0011-container-with-most-water](https://github.com/Kishan-Vyas/LeetCode/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/Kishan-Vyas/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
+| [0649-dota2-senate](https://github.com/Kishan-Vyas/LeetCode/tree/master/0649-dota2-senate) |
 | [1502-construct-k-palindrome-strings](https://github.com/Kishan-Vyas/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Kishan-Vyas/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2716-prime-subtraction-operation](https://github.com/Kishan-Vyas/LeetCode/tree/master/2716-prime-subtraction-operation) |
@@ -429,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Kishan-Vyas/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0649-dota2-senate](https://github.com/Kishan-Vyas/LeetCode/tree/master/0649-dota2-senate) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Kishan-Vyas/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0969-number-of-recent-calls](https://github.com/Kishan-Vyas/LeetCode/tree/master/0969-number-of-recent-calls) |
 ## Monotonic Queue
