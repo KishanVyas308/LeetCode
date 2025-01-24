@@ -430,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Kishan-Vyas/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Kishan-Vyas/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0969-number-of-recent-calls](https://github.com/Kishan-Vyas/LeetCode/tree/master/0969-number-of-recent-calls) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -439,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Kishan-Vyas/LeetCode/tree/master/0155-min-stack) |
+| [0969-number-of-recent-calls](https://github.com/Kishan-Vyas/LeetCode/tree/master/0969-number-of-recent-calls) |
 ## Trie
 |  |
 | ------- |
@@ -455,4 +457,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Kishan-Vyas/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/Kishan-Vyas/LeetCode/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
