@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0347-top-k-frequent-elements](https://github.com/Kishan-Vyas/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/Kishan-Vyas/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Kishan-Vyas/LeetCode/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Kishan-Vyas/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/Kishan-Vyas/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Kishan-Vyas/LeetCode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Kishan-Vyas/LeetCode/tree/master/0735-asteroid-collision) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Kishan-Vyas/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0493-reverse-pairs](https://github.com/Kishan-Vyas/LeetCode/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Kishan-Vyas/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Kishan-Vyas/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/Kishan-Vyas/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/Kishan-Vyas/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
