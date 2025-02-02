@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0096-unique-binary-search-trees](https://github.com/Kishan-Vyas/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Kishan-Vyas/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Kishan-Vyas/LeetCode/tree/master/0189-rotate-array) |
+| [1013-fibonacci-number](https://github.com/Kishan-Vyas/LeetCode/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Kishan-Vyas/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2716-prime-subtraction-operation](https://github.com/Kishan-Vyas/LeetCode/tree/master/2716-prime-subtraction-operation) |
 ## Two Pointers
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0096-unique-binary-search-trees](https://github.com/Kishan-Vyas/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Kishan-Vyas/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0392-is-subsequence](https://github.com/Kishan-Vyas/LeetCode/tree/master/0392-is-subsequence) |
+| [1013-fibonacci-number](https://github.com/Kishan-Vyas/LeetCode/tree/master/1013-fibonacci-number) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Kishan-Vyas/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Hash Table
 |  |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0206-reverse-linked-list](https://github.com/Kishan-Vyas/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Kishan-Vyas/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Kishan-Vyas/LeetCode/tree/master/0394-decode-string) |
+| [1013-fibonacci-number](https://github.com/Kishan-Vyas/LeetCode/tree/master/1013-fibonacci-number) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Kishan-Vyas/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Stack
 |  |
@@ -478,4 +481,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/Kishan-Vyas/LeetCode/tree/master/0969-number-of-recent-calls) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Kishan-Vyas/LeetCode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
