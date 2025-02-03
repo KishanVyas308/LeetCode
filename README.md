@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1046-max-consecutive-ones-iii](https://github.com/Kishan-Vyas/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/Kishan-Vyas/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Kishan-Vyas/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/KishanVyas308/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1524-string-matching-in-an-array](https://github.com/Kishan-Vyas/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Kishan-Vyas/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Kishan-Vyas/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Kishan-Vyas/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/Kishan-Vyas/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/Kishan-Vyas/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/KishanVyas308/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Kishan-Vyas/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Kishan-Vyas/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Kishan-Vyas/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
