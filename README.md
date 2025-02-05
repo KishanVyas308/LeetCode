@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0064-minimum-path-sum](https://github.com/KishanVyas308/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Kishan-Vyas/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Kishan-Vyas/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/KishanVyas308/LeetCode/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Kishan-Vyas/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Kishan-Vyas/LeetCode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Kishan-Vyas/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -449,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/KishanVyas308/LeetCode/tree/master/0136-single-number) |
 | [1940-maximum-xor-for-each-query](https://github.com/Kishan-Vyas/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Kishan-Vyas/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Kishan-Vyas/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
