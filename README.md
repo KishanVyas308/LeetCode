@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0036-valid-sudoku](https://github.com/Kishan-Vyas/LeetCode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/Kishan-Vyas/LeetCode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Kishan-Vyas/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/KishanVyas308/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/KishanVyas308/LeetCode/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/KishanVyas308/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/KishanVyas308/LeetCode/tree/master/0073-set-matrix-zeroes) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0002-add-two-numbers](https://github.com/Kishan-Vyas/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Kishan-Vyas/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Kishan-Vyas/LeetCode/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/KishanVyas308/LeetCode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Kishan-Vyas/LeetCode/tree/master/0062-unique-paths) |
 | [0096-unique-binary-search-trees](https://github.com/Kishan-Vyas/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Kishan-Vyas/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Kishan-Vyas/LeetCode/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/KishanVyas308/LeetCode/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/KishanVyas308/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/KishanVyas308/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/KishanVyas308/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
