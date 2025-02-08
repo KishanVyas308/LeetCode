@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/KishanVyas308/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Kishan-Vyas/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kishan-Vyas/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/KishanVyas308/LeetCode/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/Kishan-Vyas/LeetCode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/Kishan-Vyas/LeetCode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Kishan-Vyas/LeetCode/tree/master/0042-trapping-rain-water) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0011-container-with-most-water](https://github.com/Kishan-Vyas/LeetCode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Kishan-Vyas/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kishan-Vyas/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/KishanVyas308/LeetCode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Kishan-Vyas/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Kishan-Vyas/LeetCode/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/Kishan-Vyas/LeetCode/tree/master/0125-valid-palindrome) |
