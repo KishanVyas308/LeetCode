@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0443-string-compression](https://github.com/Kishan-Vyas/LeetCode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Kishan-Vyas/LeetCode/tree/master/0567-permutation-in-string) |
 | [0649-dota2-senate](https://github.com/Kishan-Vyas/LeetCode/tree/master/0649-dota2-senate) |
+| [0677-map-sum-pairs](https://github.com/KishanVyas308/LeetCode/tree/master/0677-map-sum-pairs) |
 | [0812-rotate-string](https://github.com/Kishan-Vyas/LeetCode/tree/master/0812-rotate-string) |
 | [0886-score-of-parentheses](https://github.com/KishanVyas308/LeetCode/tree/master/0886-score-of-parentheses) |
 | [0952-word-subsets](https://github.com/Kishan-Vyas/LeetCode/tree/master/0952-word-subsets) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0496-next-greater-element-i](https://github.com/KishanVyas308/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/KishanVyas308/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Kishan-Vyas/LeetCode/tree/master/0567-permutation-in-string) |
+| [0677-map-sum-pairs](https://github.com/KishanVyas308/LeetCode/tree/master/0677-map-sum-pairs) |
 | [0952-word-subsets](https://github.com/Kishan-Vyas/LeetCode/tree/master/0952-word-subsets) |
 | [1319-unique-number-of-occurrences](https://github.com/Kishan-Vyas/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Kishan-Vyas/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -547,11 +549,13 @@ A collection of LeetCode questions to ace the coding interview!
 | [0155-min-stack](https://github.com/Kishan-Vyas/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/KishanVyas308/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/KishanVyas308/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0677-map-sum-pairs](https://github.com/KishanVyas308/LeetCode/tree/master/0677-map-sum-pairs) |
 | [0937-online-stock-span](https://github.com/KishanVyas308/LeetCode/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/Kishan-Vyas/LeetCode/tree/master/0969-number-of-recent-calls) |
 ## Trie
 |  |
 | ------- |
+| [0677-map-sum-pairs](https://github.com/KishanVyas308/LeetCode/tree/master/0677-map-sum-pairs) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Kishan-Vyas/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Rolling Hash
 |  |
