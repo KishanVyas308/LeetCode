@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0567-permutation-in-string](https://github.com/Kishan-Vyas/LeetCode/tree/master/0567-permutation-in-string) |
 | [0649-dota2-senate](https://github.com/Kishan-Vyas/LeetCode/tree/master/0649-dota2-senate) |
 | [0812-rotate-string](https://github.com/Kishan-Vyas/LeetCode/tree/master/0812-rotate-string) |
+| [0886-score-of-parentheses](https://github.com/KishanVyas308/LeetCode/tree/master/0886-score-of-parentheses) |
 | [0952-word-subsets](https://github.com/Kishan-Vyas/LeetCode/tree/master/0952-word-subsets) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Kishan-Vyas/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Kishan-Vyas/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0496-next-greater-element-i](https://github.com/KishanVyas308/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Kishan-Vyas/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Kishan-Vyas/LeetCode/tree/master/0739-daily-temperatures) |
+| [0886-score-of-parentheses](https://github.com/KishanVyas308/LeetCode/tree/master/0886-score-of-parentheses) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Kishan-Vyas/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2470-removing-stars-from-a-string](https://github.com/Kishan-Vyas/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Monotonic Stack
