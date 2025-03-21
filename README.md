@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0812-rotate-string](https://github.com/Kishan-Vyas/LeetCode/tree/master/0812-rotate-string) |
 | [0886-score-of-parentheses](https://github.com/KishanVyas308/LeetCode/tree/master/0886-score-of-parentheses) |
 | [0952-word-subsets](https://github.com/Kishan-Vyas/LeetCode/tree/master/0952-word-subsets) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/KishanVyas308/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Kishan-Vyas/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Kishan-Vyas/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1502-construct-k-palindrome-strings](https://github.com/Kishan-Vyas/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0011-container-with-most-water](https://github.com/Kishan-Vyas/LeetCode/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/Kishan-Vyas/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0649-dota2-senate](https://github.com/Kishan-Vyas/LeetCode/tree/master/0649-dota2-senate) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/KishanVyas308/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1502-construct-k-palindrome-strings](https://github.com/Kishan-Vyas/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Kishan-Vyas/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Kishan-Vyas/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0739-daily-temperatures](https://github.com/Kishan-Vyas/LeetCode/tree/master/0739-daily-temperatures) |
 | [0886-score-of-parentheses](https://github.com/KishanVyas308/LeetCode/tree/master/0886-score-of-parentheses) |
 | [0937-online-stock-span](https://github.com/KishanVyas308/LeetCode/tree/master/0937-online-stock-span) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/KishanVyas308/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Kishan-Vyas/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2470-removing-stars-from-a-string](https://github.com/Kishan-Vyas/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Monotonic Stack
