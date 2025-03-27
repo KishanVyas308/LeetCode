@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2699-count-the-number-of-fair-pairs](https://github.com/Kishan-Vyas/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/Kishan-Vyas/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2792-neighboring-bitwise-xor](https://github.com/Kishan-Vyas/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/KishanVyas308/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Kishan-Vyas/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Kishan-Vyas/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Kishan-Vyas/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2428-equal-row-and-column-pairs](https://github.com/Kishan-Vyas/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Kishan-Vyas/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Kishan-Vyas/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/KishanVyas308/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Kishan-Vyas/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Sorting
 |  |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2179-most-beautiful-item-for-each-query](https://github.com/Kishan-Vyas/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Kishan-Vyas/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Kishan-Vyas/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/KishanVyas308/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Kishan-Vyas/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Binary Search
 |  |
