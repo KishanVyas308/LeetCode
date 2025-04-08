@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Kishan-Vyas/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/KishanVyas308/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Kishan-Vyas/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/KishanVyas308/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Math
 |  |
 | ------- |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Kishan-Vyas/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/KishanVyas308/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Kishan-Vyas/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/KishanVyas308/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Sorting
 |  |
 | ------- |
