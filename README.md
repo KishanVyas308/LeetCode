@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KishanVyas308/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Kishan-Vyas/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0392-is-subsequence](https://github.com/Kishan-Vyas/LeetCode/tree/master/0392-is-subsequence) |
+| [0806-domino-and-tromino-tiling](https://github.com/KishanVyas308/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [0943-sum-of-subarray-minimums](https://github.com/KishanVyas308/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/Kishan-Vyas/LeetCode/tree/master/1013-fibonacci-number) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Kishan-Vyas/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
