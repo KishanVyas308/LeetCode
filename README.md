@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/KishanVyas308/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Kishan-Vyas/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/KishanVyas308/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/KishanVyas308/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/KishanVyas308/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Math
 |  |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0347-top-k-frequent-elements](https://github.com/Kishan-Vyas/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/KishanVyas308/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Kishan-Vyas/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/KishanVyas308/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/KishanVyas308/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Kishan-Vyas/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2428-equal-row-and-column-pairs](https://github.com/Kishan-Vyas/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/KishanVyas308/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Union Find
 |  |
 | ------- |
@@ -618,8 +621,13 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/KishanVyas308/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/KishanVyas308/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Topological Sort
 |  |
 | ------- |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/KishanVyas308/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+## Shortest Path
+|  |
+| ------- |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/KishanVyas308/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 <!---LeetCode Topics End-->
