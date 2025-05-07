@@ -1,5 +1,10 @@
 class Solution {
-    public function minTimeToReach($moveTime) {
+
+    /**
+     * @param Integer[][] $moveTime
+     * @return Integer
+     */
+    function minTimeToReach($moveTime) {
         $rows = count($moveTime);
         $cols = count($moveTime[0]);
         $time = array_fill(0, $rows, array_fill(0, $cols, PHP_INT_MAX));
