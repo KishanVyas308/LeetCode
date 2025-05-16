@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2699-count-the-number-of-fair-pairs](https://github.com/Kishan-Vyas/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/Kishan-Vyas/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2792-neighboring-bitwise-xor](https://github.com/Kishan-Vyas/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
+| [2870-longest-alternating-subarray](https://github.com/KishanVyas308/LeetCode/tree/master/2870-longest-alternating-subarray) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/KishanVyas308/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Kishan-Vyas/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Kishan-Vyas/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -567,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1656-count-good-triplets](https://github.com/KishanVyas308/LeetCode/tree/master/1656-count-good-triplets) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Kishan-Vyas/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+| [2870-longest-alternating-subarray](https://github.com/KishanVyas308/LeetCode/tree/master/2870-longest-alternating-subarray) |
 ## Queue
 |  |
 | ------- |
