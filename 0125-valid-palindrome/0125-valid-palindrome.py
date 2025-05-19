@@ -1,8 +1,9 @@
 class Solution:
     def isPalindrome(self, s: str) -> bool:
-        filterd = "".join(char.lower() for char in s if char.isalnum())
-        for i in range(int(len(filterd)/2)):
-            if filterd[i] != filterd[len(filterd)-i-1]:
+        filted = "".join(ch.lower() for ch in s if ch.isalnum())
+        n = len(filted)
+        for i in range((int)(n/2)) :
+            if filted[i] != filted[n-i-1] :
                 return False
         return True
         
