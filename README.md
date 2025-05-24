@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Kishan-Vyas/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Kishan-Vyas/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Kishan-Vyas/LeetCode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3194-find-words-containing-character](https://github.com/KishanVyas308/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Kishan-Vyas/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3451-string-compression-iii](https://github.com/Kishan-Vyas/LeetCode/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Kishan-Vyas/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2792-neighboring-bitwise-xor](https://github.com/Kishan-Vyas/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 | [2870-longest-alternating-subarray](https://github.com/KishanVyas308/LeetCode/tree/master/2870-longest-alternating-subarray) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/KishanVyas308/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3194-find-words-containing-character](https://github.com/KishanVyas308/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Kishan-Vyas/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Kishan-Vyas/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Kishan-Vyas/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
