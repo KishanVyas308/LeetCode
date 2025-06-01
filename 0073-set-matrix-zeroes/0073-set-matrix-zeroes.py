@@ -3,18 +3,26 @@ class Solution:
         """
         Do not return anything, modify matrix in-place instead.
         """
-        n,m = len(matrix), len(matrix[0])
-        # is zero then 0 else 1
-        row = [1] * n
-        col = [1] * m
-        for i in range(n) :
-            for j in range(m) :
+        m,n = len(matrix), len(matrix[0])
+
+        row = [1] * m
+        col = [1] * n
+
+        for i in range(m) :
+            for j in range(n) :
                 if matrix[i][j] == 0 :
                     row[i] = 0
                     col[j] = 0
-        for i in range(n) :
-            for j in range(m) :
-                if row[i] == 0:
+        
+        for i in range(m) :
+            if row[i] == 0:
+                for j in range(n) :
                     matrix[i][j] = 0
-                if col[j] == 0:
+        
+        
+        for j in range(n) :
+            if col[j] == 0:
+                for i in range(m) :
                     matrix[i][j] = 0
+        
+        
